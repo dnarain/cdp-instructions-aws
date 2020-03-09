@@ -30,7 +30,7 @@ you can use (use [this Terraform configuration](https://github.com/dnarain/cdp-a
     * Each Public Subnet must have a route to the VPC Egress and a NAT Gateway
     * Each Private Subnet must have a default route to its corresponding public subnet
 
-    Note: You also need to make sure that you can access the privagte subnets 
+    Note: You also need to make sure that you can access the private subnets 
     from outside (e.g. your laptop).  A few common approaches to do to this include:
     * Setting up a bastion host in one of the public subnets and using a ssh proxy
     on your computer (e.g. 
