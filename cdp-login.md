@@ -6,6 +6,8 @@ default CDP uses to my.cloudera.com for Single Sign On, which means:
 * If any user wants to connect to your CDP, all they need to do is self-register
 on my.cloudera.com
 
+Of course, in a production deployment you can cut this link and connect CDP to your any SAML-based corporate identity provider.
+
 
 On first login, you also may need to accept terms - which you can also find 
 [here](https://www.cloudera.com/terms-conditions/). 
