@@ -45,7 +45,7 @@ you can use (use [this Terraform configuration](https://github.com/dnarain/cdp-a
 and a folder called logs created within this bucket. 
 You can do this manually, or automate it using [this terraform](https://github.com/dnarain/cdp-aws). 
 
-*_Create IAM_: CDP requires a specific IAM setup, you can choose to:
+* _Create IAM_: CDP requires a specific IAM setup, you can choose to:
 
     * Follow the documentation: this is comprehensive, but requires a lot of
     copy-paste, which has been proven to be prone to error
