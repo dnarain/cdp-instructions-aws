@@ -10,6 +10,6 @@ On first login, you also may need to accept terms - which you can also find
 [here](https://www.cloudera.com/terms-conditions/). 
 
 
-Of course, in a production deployment you can cut this link to my.cloudera.com and use your corporate SAML-based corporate identity provider (instructions [here](https://docs.cloudera.com/management-console/cloud/user-management/topics/mc-configuring-your-enterprise-idp-to-work-with-cdp-as-a-service-provider.html)).
+Of course, in a production deployment you can cut this link to my.cloudera.com and use your corporate SAML-based Identity Provider (instructions [here](https://docs.cloudera.com/management-console/cloud/user-management/topics/mc-configuring-your-enterprise-idp-to-work-with-cdp-as-a-service-provider.html)).
 
 
