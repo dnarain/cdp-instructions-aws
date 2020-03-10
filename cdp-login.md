@@ -13,3 +13,5 @@ On first login, you also may need to accept terms - which you can also find
 Of course, in a production deployment you can cut this link to my.cloudera.com and use your corporate SAML-based Identity Provider (instructions [here](https://docs.cloudera.com/management-console/cloud/user-management/topics/mc-configuring-your-enterprise-idp-to-work-with-cdp-as-a-service-provider.html)).
 
 
+NOTE: If you don't see new users when you browse to User Management in the CDP Management Console, it probably is because they haven't logged in yet. The CDP user object is created only after first login to the Management Console. CDP does offer a [bulk pre-load option](https://docs.cloudera.com/management-console/cloud/user-management/topics/mc-importing-or-uploading-users.html) after you've connected your corporate ID Provider. 
+
