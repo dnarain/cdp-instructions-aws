@@ -4,12 +4,12 @@ This is a series of steps to set up Clouder Data Platform (CDP) - Public Cloud
 in AWS. 
 
 Steps are:
-1. [Prep your AWS account](aws-account-prep.md)
-2. [Log in, Accept Terms](cdp-login.md)
+1. [Log in, Accept Terms](cdp-login.md)
+2. [Prep your AWS account](aws-account-prep.md)
 3. [Create the CDP Credential](cdp-credential.md)
-3. [Set up an Environment and Datalake](aws-env.md)
-4. Set up a Datahub cluster - TBD
-5. Set up Cloudera Data Warehouse (CDP) - TBD
+4. [Set up an Environment and Datalake](aws-env.md)
+5. Set up a Datahub cluster - TBD
+6. Set up Cloudera Data Warehouse (CDP) - TBD
 
 # Assumptions
 The following assumptions are being made, which have been validated as "good 
