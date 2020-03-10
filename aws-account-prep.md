@@ -47,8 +47,8 @@ You can do this manually, or automate it using [this terraform](https://github.c
 
 * _Create IAM_: CDP requires a specific IAM setup, you can choose to:
 
-    * Follow the documentation: this is comprehensive, but requires a lot of
-    copy-paste, which has been proven to be prone to error
+    * Follow [the documentation](https://docs.cloudera.com/management-console/cloud/environments/topics/mc-idbroker-minimum-setup.html), 
+    which is comprehensive, but requires a lot of copy-paste, which can be prone to error
     * Follow a guided approach by using 
     [this Google Sheet](https://docs.google.com/spreadsheets/d/1gbl7iBSRnoxYI74QlYa63_3HfZB0Wua7t7a-OjkJCuM/edit?usp=sharing)
     * Automate it by using [this terraform](https://github.com/dnarain/cdp-aws)
