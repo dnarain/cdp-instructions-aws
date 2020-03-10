@@ -50,7 +50,7 @@ You can do this manually, or automate it using [this terraform](https://github.c
     * Follow the documentation: this is comprehensive, but requires a lot of
     copy-paste, which has been proven to be prone to error
     * Follow a guided approach by using 
-    [this Google Sheets spreadsheet - accessible to Cloudera employees only](https://docs.google.com/spreadsheets/d/1IoKywFvyOPHZ9cHknhYF9qzLt65R-d4mKKtzc4T7QYw/edit?usp=sharing)
+    [this Google Sheet](https://docs.google.com/spreadsheets/d/1gbl7iBSRnoxYI74QlYa63_3HfZB0Wua7t7a-OjkJCuM/edit#gid=692978019)
     * Automate it by using [this terraform](https://github.com/dnarain/cdp-aws)
 
 
