@@ -2,7 +2,7 @@
 
 During this how-to, we're going to create a CDP Environment using terraform.  We'll also be using the AWS CLI, but this is optional.
 
-Step 1. Confirm Terraform Install
+### Step 1. Confirm Terraform Install
 
 You can download terrform from Hashicorp's webuste [here](https://www.terraform.io/downloads.html)
 After installation for your particular OS, you can confirm the install by running the below command.
@@ -28,7 +28,7 @@ You should see something like the following.
 aws-cli/2.0.1 Python/3.7.4 Darwin/19.3.0 botocore/2.0.0dev5
 ```
 
-Step 2. Prepping your AWS account for CDP
+### Step 2. Prepping your AWS account for CDP
 
 A new account AWS account defaults to small EC2 quota which isn’t enough to finish an onboarding. We'll want to confirm our service quotas for “Running On-Demand Standard (A, C, D, H, I, M, R, T, Z) Instances” is at least 256. (*BTW, that’s 256 vCPUs - not instances. No, we wont be provisioning 256 vCPUs, this just gives us plenty of headroom should we need to scale up our environment*)
 
@@ -44,7 +44,7 @@ QuotaName": "Running On-Demand Standard (A, C, D, H, I, M, R, T, Z) instances",
         "Value": 1152.0,
 ```
 
-Step 3. Create AWS Resources (IAM, and S3) Using Terraform.
+### Step 3. Create AWS Resources (IAM, and S3) Using Terraform.
 
 In this step, we are going to create the proper S3 buckets and IAM policies needed for a CDP Environment in AWS.  An explanation of these can be found [here](https://docs.cloudera.com/management-console/cloud/environments/topics/mc-idbroker-minimum-setup.html)
 
