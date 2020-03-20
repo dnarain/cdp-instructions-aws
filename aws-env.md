@@ -3,7 +3,7 @@
 1. To set up a new environment, go to the Management Console section of the CDP UI and click on Environments.  Click Register Environment
 
 ## Page 1
-1. Give your environment a name, choose the CDP Credential you created in the [Create the CDP Credential step][cdp-credential.md] ![](screenshots/cdp-env-create-page-1.png)
+1. Give your environment a name, choose the CDP Credential you created in the [Create the CDP Credential step](cdp-credential.md) ![](screenshots/cdp-env-create-page-1.png)
 
 ## Page 2
 1. Give the datalake a name - you can reuse the name of the environment here if you’d like or give it a unique name ![](screenshots/cdp-env-create-page-2.png)
