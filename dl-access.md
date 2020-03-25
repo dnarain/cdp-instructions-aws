@@ -42,6 +42,7 @@ enable a new service]
 
 4. All the changes made via the Management Console are captured in the control 
 plane.  To make these changes effective, you have to Synchronize Users to FreeIPA.  
+
 This is done from the same Actions pulldown.  
 
 ![](screenshots/cdp-sync-users-env.png)
