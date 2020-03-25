@@ -56,9 +56,7 @@ It takes a few minutes for the sync to finish
 
 ![](screenshots/cdp-env-sync-done.png)
 
-4. Voila, you should be in
-
-Now, when you retry accessing the URLs for Datalake service, you should be single
+4. Voila, you're in. Now, when you retry accessing the URLs for Datalake service, you should be single
 signed on to it.
 
 ![](screenshots/cdp-datalake-cm-working.png)
