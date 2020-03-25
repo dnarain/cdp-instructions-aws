@@ -8,7 +8,7 @@ Clicking on the Datalake tab will allow you to access the various services in th
 ![](screenshots/cdp_dl_screen.png)
 
 # 403s Everywhere
-However, when you first try to access any service in the datalake, you will be greeted with some variation of this error (in this screenshot, I am trying to access the Cloudera Manager in the Datalake)
+However, when you first try to access any service in the datalake, you will be greeted with this error (in this screenshot, I am trying to access the Cloudera Manager in the Datalake)
 
 ![](screenshots/403-datalake-cm.png)
 
